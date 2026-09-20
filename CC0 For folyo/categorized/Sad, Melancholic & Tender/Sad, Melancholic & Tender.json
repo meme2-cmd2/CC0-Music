@@ -1,0 +1,22 @@
+{
+  "category": "Sad, Melancholic & Tender",
+  "count": 4,
+  "tracks": [
+    {
+      "name": "Hit n Smash",
+      "file": "Hit n Smash.opus"
+    },
+    {
+      "name": "Painful Disorientation",
+      "file": "Painful Disorientation.opus"
+    },
+    {
+      "name": "Painting Room",
+      "file": "Painting Room.opus"
+    },
+    {
+      "name": "Sad Drunken Party",
+      "file": "Sad Drunken Party.opus"
+    }
+  ]
+}
