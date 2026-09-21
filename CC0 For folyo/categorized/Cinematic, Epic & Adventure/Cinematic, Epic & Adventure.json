@@ -1,0 +1,494 @@
+{
+  "category": "Cinematic, Epic & Adventure",
+  "count": 122,
+  "tracks": [
+    {
+      "name": "A Very Brady Special",
+      "file": "A Very Brady Special.opus"
+    },
+    {
+      "name": "Action Strike",
+      "file": "Action Strike.opus"
+    },
+    {
+      "name": "Adventure",
+      "file": "Adventure.opus"
+    },
+    {
+      "name": "Adventures of Flying Jack",
+      "file": "Adventures of Flying Jack.opus"
+    },
+    {
+      "name": "Alien Invasion",
+      "file": "Alien Invasion.opus"
+    },
+    {
+      "name": "Ambush in Rattlesnake Gulch",
+      "file": "Ambush in Rattlesnake Gulch.opus"
+    },
+    {
+      "name": "Ancient Rite",
+      "file": "Ancient Rite.opus"
+    },
+    {
+      "name": "Asking Questions",
+      "file": "Asking Questions.opus"
+    },
+    {
+      "name": "Assassin",
+      "file": "Assassin.opus"
+    },
+    {
+      "name": "Awkward Apocalyptic Pickup",
+      "file": "Awkward Apocalyptic Pickup.opus"
+    },
+    {
+      "name": "Bar Brawl",
+      "file": "Bar Brawl.opus"
+    },
+    {
+      "name": "Battle Ready",
+      "file": "Battle Ready.opus"
+    },
+    {
+      "name": "Battle(chosic.com)",
+      "file": "Battle(chosic.com).opus"
+    },
+    {
+      "name": "Beginning of Conflict",
+      "file": "Beginning of Conflict.opus"
+    },
+    {
+      "name": "Behind Enemy Lines",
+      "file": "Behind Enemy Lines.opus"
+    },
+    {
+      "name": "Black Knight",
+      "file": "Black Knight.opus"
+    },
+    {
+      "name": "Brothers Unite",
+      "file": "Brothers Unite.opus"
+    },
+    {
+      "name": "Cold Journey",
+      "file": "Cold Journey.opus"
+    },
+    {
+      "name": "Cornfield Chase",
+      "file": "Cornfield Chase.opus"
+    },
+    {
+      "name": "Desert Conflict",
+      "file": "Desert Conflict.opus"
+    },
+    {
+      "name": "Desert Fox Underscore",
+      "file": "Desert Fox Underscore.opus"
+    },
+    {
+      "name": "Epic Blockbuster 2",
+      "file": "Epic Blockbuster 2.opus"
+    },
+    {
+      "name": "Epic Boss Battle",
+      "file": "Epic Boss Battle.opus"
+    },
+    {
+      "name": "Free_Tim_-_Sousas_Thunderer_March(chosic.com)",
+      "file": "Free_Tim_-_Sousas_Thunderer_March(chosic.com).opus"
+    },
+    {
+      "name": "Guerilla Tactics",
+      "file": "Guerilla Tactics.opus"
+    },
+    {
+      "name": "Heroic Adventure",
+      "file": "Heroic Adventure.opus"
+    },
+    {
+      "name": "Hidden Truth",
+      "file": "Hidden Truth.opus"
+    },
+    {
+      "name": "Horror Suspense",
+      "file": "Horror Suspense.opus"
+    },
+    {
+      "name": "Ian_Alex_Mac_-_03_-_I_Hate_Buses(chosic.com)",
+      "file": "Ian_Alex_Mac_-_03_-_I_Hate_Buses(chosic.com).opus"
+    },
+    {
+      "name": "Journey of Hope",
+      "file": "Journey of Hope.opus"
+    },
+    {
+      "name": "Jungle Mission",
+      "file": "Jungle Mission.opus"
+    },
+    {
+      "name": "Kings Trailer",
+      "file": "Kings Trailer.opus"
+    },
+    {
+      "name": "Kumquat_-_27_-_Everyone_Is_Afraid_Of_Clowns(chosic.com)",
+      "file": "Kumquat_-_27_-_Everyone_Is_Afraid_Of_Clowns(chosic.com).opus"
+    },
+    {
+      "name": "Lament_for_a_Warriors_Soul_REUPLOAD(chosic.com)",
+      "file": "Lament_for_a_Warriors_Soul_REUPLOAD(chosic.com).opus"
+    },
+    {
+      "name": "Lonely Mountain",
+      "file": "Lonely Mountain.opus"
+    },
+    {
+      "name": "Lukewarm Banjo",
+      "file": "Lukewarm Banjo.opus"
+    },
+    {
+      "name": "Marsel_Minga_-_03_-_Drum_Machine_Battle(chosic.com)",
+      "file": "Marsel_Minga_-_03_-_Drum_Machine_Battle(chosic.com).opus"
+    },
+    {
+      "name": "Mothership",
+      "file": "Mothership.opus"
+    },
+    {
+      "name": "New Hero in Town",
+      "file": "New Hero in Town.opus"
+    },
+    {
+      "name": "Night Attack",
+      "file": "Night Attack.opus"
+    },
+    {
+      "name": "One Destination - Two Journeys",
+      "file": "One Destination - Two Journeys.opus"
+    },
+    {
+      "name": "Patron Saint of Heists",
+      "file": "Patron Saint of Heists.opus"
+    },
+    {
+      "name": "Peter_Gresser_-_01_-_And_Now_For_That_Massive_Coronary-1(chosic.com)",
+      "file": "Peter_Gresser_-_01_-_And_Now_For_That_Massive_Coronary-1(chosic.com).opus"
+    },
+    {
+      "name": "Peter_Gresser_-_02_-_Countdown_to_Myocardial_Infarction(chosic.com)",
+      "file": "Peter_Gresser_-_02_-_Countdown_to_Myocardial_Infarction(chosic.com).opus"
+    },
+    {
+      "name": "Peter_Gresser_-_03_-_No_Rocking_in_the_Jazzhands_Zone-1(chosic.com)",
+      "file": "Peter_Gresser_-_03_-_No_Rocking_in_the_Jazzhands_Zone-1(chosic.com).opus"
+    },
+    {
+      "name": "Peter_Gresser_-_04_-_Skipping_in_the_No_Standing_Zone(chosic.com)",
+      "file": "Peter_Gresser_-_04_-_Skipping_in_the_No_Standing_Zone(chosic.com).opus"
+    },
+    {
+      "name": "Peter_Gresser_-_05_-_Skipping_Through_the_Orchestra_Pit(chosic.com)",
+      "file": "Peter_Gresser_-_05_-_Skipping_Through_the_Orchestra_Pit(chosic.com).opus"
+    },
+    {
+      "name": "Planeteer Reaction",
+      "file": "Planeteer Reaction.opus"
+    },
+    {
+      "name": "Release the Hybrids",
+      "file": "Release the Hybrids.opus"
+    },
+    {
+      "name": "Romantic Inspiration",
+      "file": "Romantic Inspiration.opus"
+    },
+    {
+      "name": "Room_34_-_24_-_The_Fall_of_the_Village_of_the_Infinitesimal_Forest_at_the_Hands_of_the_Royal_Aggressor_An_Epic_in_Seven_Parts(chosic.com)",
+      "file": "Room_34_-_24_-_The_Fall_of_the_Village_of_the_Infinitesimal_Forest_at_the_Hands_of_the_Royal_Aggressor_An_Epic_in_Seven_Parts(chosic.com).opus"
+    },
+    {
+      "name": "Salakapakka_Sound_System_vs_The_Day_Of_The_Antler_-_03_-_A_Day_So_Dark_So_Warm(chosic.com)",
+      "file": "Salakapakka_Sound_System_vs_The_Day_Of_The_Antler_-_03_-_A_Day_So_Dark_So_Warm(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_01_-_Clash_under_the_Big_Bridge(chosic.com)",
+      "file": "Soft_and_Furious_-_01_-_Clash_under_the_Big_Bridge(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_01_-_I_Feel_You(chosic.com)",
+      "file": "Soft_and_Furious_-_01_-_I_Feel_You(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_01_-_Is_this_fruit_edible_(chosic.com)",
+      "file": "Soft_and_Furious_-_01_-_Is_this_fruit_edible_(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_01_-_Morph(chosic.com)",
+      "file": "Soft_and_Furious_-_01_-_Morph(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_01_-_Rumbling_Roof(chosic.com)",
+      "file": "Soft_and_Furious_-_01_-_Rumbling_Roof(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_01_-_So_What(chosic.com)",
+      "file": "Soft_and_Furious_-_01_-_So_What(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_01_-_Youre_Magic-1(chosic.com)",
+      "file": "Soft_and_Furious_-_01_-_Youre_Magic-1(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_02_-_Beach_Run(chosic.com)",
+      "file": "Soft_and_Furious_-_02_-_Beach_Run(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_02_-_Game_On-1(chosic.com)",
+      "file": "Soft_and_Furious_-_02_-_Game_On-1(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_02_-_No_moment_of_truth(chosic.com)",
+      "file": "Soft_and_Furious_-_02_-_No_moment_of_truth(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_02_-_Return_to_the_basis(chosic.com)",
+      "file": "Soft_and_Furious_-_02_-_Return_to_the_basis(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_02_-_Soft_and_Nothing(chosic.com)",
+      "file": "Soft_and_Furious_-_02_-_Soft_and_Nothing(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_02_-_Whats_your_name_again_(chosic.com)",
+      "file": "Soft_and_Furious_-_02_-_Whats_your_name_again_(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_02_-_Youre_no_good_but_I_love_you(chosic.com)",
+      "file": "Soft_and_Furious_-_02_-_Youre_no_good_but_I_love_you(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_03_-_Granular_Dreams(chosic.com)",
+      "file": "Soft_and_Furious_-_03_-_Granular_Dreams(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_03_-_Hardwave(chosic.com)",
+      "file": "Soft_and_Furious_-_03_-_Hardwave(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_03_-_Incredible_You(chosic.com)",
+      "file": "Soft_and_Furious_-_03_-_Incredible_You(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_03_-_Lucidity(chosic.com)",
+      "file": "Soft_and_Furious_-_03_-_Lucidity(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_03_-_Post_Yes(chosic.com)",
+      "file": "Soft_and_Furious_-_03_-_Post_Yes(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_03_-_S_T_A_F(chosic.com)",
+      "file": "Soft_and_Furious_-_03_-_S_T_A_F(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_04_-_Am_I_drunk_or_in_love_(chosic.com)",
+      "file": "Soft_and_Furious_-_04_-_Am_I_drunk_or_in_love_(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_04_-_Inescapable(chosic.com)",
+      "file": "Soft_and_Furious_-_04_-_Inescapable(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_04_-_Next_Time(chosic.com)",
+      "file": "Soft_and_Furious_-_04_-_Next_Time(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_04_-_Saint_Wave(chosic.com)",
+      "file": "Soft_and_Furious_-_04_-_Saint_Wave(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_04_-_Soda_Mozza(chosic.com)",
+      "file": "Soft_and_Furious_-_04_-_Soda_Mozza(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_04_-_Still_Weaker_than_Them(chosic.com)",
+      "file": "Soft_and_Furious_-_04_-_Still_Weaker_than_Them(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_05_-_D_D_D_Dancing(chosic.com)",
+      "file": "Soft_and_Furious_-_05_-_D_D_D_Dancing(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_05_-_Falling_into_the_game(chosic.com)",
+      "file": "Soft_and_Furious_-_05_-_Falling_into_the_game(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_05_-_Probably_Not(chosic.com)",
+      "file": "Soft_and_Furious_-_05_-_Probably_Not(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_05_-_Short_temper_dove(chosic.com)",
+      "file": "Soft_and_Furious_-_05_-_Short_temper_dove(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_05_-_Spag(chosic.com)",
+      "file": "Soft_and_Furious_-_05_-_Spag(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_05_-_Through_the_water_and_rain(chosic.com)",
+      "file": "Soft_and_Furious_-_05_-_Through_the_water_and_rain(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_06_-_And_never_come_back(chosic.com)",
+      "file": "Soft_and_Furious_-_06_-_And_never_come_back(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_06_-_Green_Pig-1(chosic.com)",
+      "file": "Soft_and_Furious_-_06_-_Green_Pig-1(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_06_-_Let_me_be(chosic.com)",
+      "file": "Soft_and_Furious_-_06_-_Let_me_be(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_06_-_Mermaid_Butterfly(chosic.com)",
+      "file": "Soft_and_Furious_-_06_-_Mermaid_Butterfly(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_06_-_Shake_me_Baby(chosic.com)",
+      "file": "Soft_and_Furious_-_06_-_Shake_me_Baby(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_06_-_Shining_Ending(chosic.com)",
+      "file": "Soft_and_Furious_-_06_-_Shining_Ending(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_06_-_Superconnected_sleep(chosic.com)",
+      "file": "Soft_and_Furious_-_06_-_Superconnected_sleep(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_06_-_Vicious_Treat(chosic.com)",
+      "file": "Soft_and_Furious_-_06_-_Vicious_Treat(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_07_-_C_L_I_M_A_X(chosic.com)",
+      "file": "Soft_and_Furious_-_07_-_C_L_I_M_A_X(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_07_-_I_love_the_way_youre_talking_to_me(chosic.com)",
+      "file": "Soft_and_Furious_-_07_-_I_love_the_way_youre_talking_to_me(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_07_-_Ocean_Ending(chosic.com)",
+      "file": "Soft_and_Furious_-_07_-_Ocean_Ending(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_07_-_Powerful_Stasis(chosic.com)",
+      "file": "Soft_and_Furious_-_07_-_Powerful_Stasis(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_07_-_R_R_R_R_R_Right_Ok(chosic.com)",
+      "file": "Soft_and_Furious_-_07_-_R_R_R_R_R_Right_Ok(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_07_-_When_the_blood_driving_the_self(chosic.com)",
+      "file": "Soft_and_Furious_-_07_-_When_the_blood_driving_the_self(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_08_-_Craving_Ending(chosic.com)",
+      "file": "Soft_and_Furious_-_08_-_Craving_Ending(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_08_-_Empowered_Ending(chosic.com)",
+      "file": "Soft_and_Furious_-_08_-_Empowered_Ending(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_08_-_Hyper_Staying(chosic.com)",
+      "file": "Soft_and_Furious_-_08_-_Hyper_Staying(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_08_-_Murky_sweet_sweet_style(chosic.com)",
+      "file": "Soft_and_Furious_-_08_-_Murky_sweet_sweet_style(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_08_-_Passionate_Ending(chosic.com)",
+      "file": "Soft_and_Furious_-_08_-_Passionate_Ending(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_08_-_Shut_up_the_mermaid_is_talking(chosic.com)",
+      "file": "Soft_and_Furious_-_08_-_Shut_up_the_mermaid_is_talking(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_09_-_Horizon_Ending(chosic.com)",
+      "file": "Soft_and_Furious_-_09_-_Horizon_Ending(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_09_-_Mermaid_ending(chosic.com)",
+      "file": "Soft_and_Furious_-_09_-_Mermaid_ending(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_09_-_The_Army_Of_You(chosic.com)",
+      "file": "Soft_and_Furious_-_09_-_The_Army_Of_You(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_10_-_Dramatic_Ending(chosic.com)",
+      "file": "Soft_and_Furious_-_10_-_Dramatic_Ending(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_10_-_Melancholic_Ending(chosic.com)",
+      "file": "Soft_and_Furious_-_10_-_Melancholic_Ending(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_12_-_Youre_Magic(chosic.com)",
+      "file": "Soft_and_Furious_-_12_-_Youre_Magic(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_25_-_Monster(chosic.com)",
+      "file": "Soft_and_Furious_-_25_-_Monster(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_34_-_Dance_like_crazy(chosic.com)",
+      "file": "Soft_and_Furious_-_34_-_Dance_like_crazy(chosic.com).opus"
+    },
+    {
+      "name": "Soft_and_Furious_-_39_-_The_Merfolk_I_Should_Turn_To_Be(chosic.com)",
+      "file": "Soft_and_Furious_-_39_-_The_Merfolk_I_Should_Turn_To_Be(chosic.com).opus"
+    },
+    {
+      "name": "Spec Ops",
+      "file": "Spec Ops.opus"
+    },
+    {
+      "name": "Strength of the Titans",
+      "file": "Strength of the Titans.opus"
+    },
+    {
+      "name": "Stunted Adventure",
+      "file": "Stunted Adventure.opus"
+    },
+    {
+      "name": "Take the Sting Out - Jazz Fi",
+      "file": "Take the Sting Out - Jazz Fi.opus"
+    },
+    {
+      "name": "The Crown",
+      "file": "The Crown.opus"
+    },
+    {
+      "name": "The Drama",
+      "file": "The Drama.opus"
+    },
+    {
+      "name": "The Enemy",
+      "file": "The Enemy.opus"
+    },
+    {
+      "name": "The Story",
+      "file": "The Story.opus"
+    },
+    {
+      "name": "The Vikings",
+      "file": "The Vikings.opus"
+    }
+  ]
+}
