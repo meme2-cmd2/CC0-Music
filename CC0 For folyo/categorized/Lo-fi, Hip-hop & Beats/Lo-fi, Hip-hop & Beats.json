@@ -1,0 +1,38 @@
+{
+  "category": "Lo-fi, Hip-hop & Beats",
+  "count": 8,
+  "tracks": [
+    {
+      "name": "Backbeat",
+      "file": "Backbeat.opus"
+    },
+    {
+      "name": "Be Chillin",
+      "file": "Be Chillin.opus"
+    },
+    {
+      "name": "Beat One",
+      "file": "Beat One.opus"
+    },
+    {
+      "name": "Beat Thee",
+      "file": "Beat Thee.opus"
+    },
+    {
+      "name": "Burning Trapezoid of Fire",
+      "file": "Burning Trapezoid of Fire.opus"
+    },
+    {
+      "name": "Loyalty-Freak-Music-Chill-of-Cold(chosic.com)",
+      "file": "Loyalty-Freak-Music-Chill-of-Cold(chosic.com).opus"
+    },
+    {
+      "name": "draft-monk-ambience(chosic.com)",
+      "file": "draft-monk-ambience(chosic.com).opus"
+    },
+    {
+      "name": "guitar-mellow-beat-20221122-128596",
+      "file": "guitar-mellow-beat-20221122-128596.opus"
+    }
+  ]
+}
